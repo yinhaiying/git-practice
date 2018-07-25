@@ -7,12 +7,13 @@ function bbb(){
 
     let z = 3;
     return z;
-<<<<<<< HEAD
+
 }
 function ccc(){
     let m = 4;
     return m;
-=======
-
->>>>>>> 02137076904589c462ec37eab0d91cf983f20121
+}
+function ddd(){
+    let n =5;
+    return n;
 }
