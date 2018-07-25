@@ -17,11 +17,3 @@ function ddd(){
     let n =5;
     return n;
 }
-function eee(){
-    let i = 4;
-    return i;
-}
-function fff(){
-    let j =6;
-    return j;
-}
