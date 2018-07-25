@@ -4,6 +4,8 @@ function aaa(){
     return x+y;
 }
 function bbb(){
-    let w = 3;
-    return w;
+
+    let z = 3;
+    return z;
+
 }
