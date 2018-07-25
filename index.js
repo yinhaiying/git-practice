@@ -13,7 +13,13 @@ function ccc(){
     let m = 4;
     return m;
 }
+
 function ddd(){
     let n =5;
     return n;
 }
+
+console.log(aaa())
+console.log(bbb())
+console.log(ccc())
+
