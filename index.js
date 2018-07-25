@@ -7,3 +7,7 @@ function bbb(){
     let z = 3;
     return z;
 }
+function ccc(){
+    let m = 4;
+    return m;
+}
